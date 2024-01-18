@@ -1,0 +1,20 @@
+body
+{
+text-align:center;
+}
+.abc{
+    width:100%;
+    margin-top:0px;
+}
+.def{
+    float:right;
+}
+.modal-dialog{
+    width:90%;
+}
+.instruction_img{
+    width:45%;
+}
+canvas{
+    border:5px white solid;
+}
